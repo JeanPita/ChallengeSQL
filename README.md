@@ -1,2 +1,2 @@
 # Motor
-El motor utilizado es MSSQL
+El motor utilizado es MSSQL // Microsoft SQL Server
